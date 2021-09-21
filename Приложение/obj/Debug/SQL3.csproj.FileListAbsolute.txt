@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SQL3\obj\Debug\SQL3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SQL3\obj\Debug\SQL3.Form1.resources
+C:\Users\User\source\repos\SQL3\obj\Debug\SQL3.Properties.Resources.resources
+C:\Users\User\source\repos\SQL3\obj\Debug\SQL3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SQL3\obj\Debug\SQL3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SQL3\bin\Debug\SQL3.exe.config
+C:\Users\User\source\repos\SQL3\bin\Debug\SQL3.exe
+C:\Users\User\source\repos\SQL3\bin\Debug\SQL3.pdb
+C:\Users\User\source\repos\SQL3\obj\Debug\SQL3.exe
+C:\Users\User\source\repos\SQL3\obj\Debug\SQL3.pdb
+C:\Users\User\source\repos\SQL3\obj\Debug\SQL3.Zagruzka.resources
+C:\Users\User\source\repos\SQL3\bin\Debug\CircularProgressBar.dll
+C:\Users\User\source\repos\SQL3\bin\Debug\WinFormAnimation.dll
+C:\Users\User\source\repos\SQL3\bin\Debug\CircularProgressBar.xml
+C:\Users\User\source\repos\SQL3\bin\Debug\WinFormAnimation.xml
+C:\Users\User\source\repos\SQL3\obj\Debug\SQL3.csproj.CopyComplete
