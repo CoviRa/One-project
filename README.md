@@ -1,4 +1,3 @@
-Creating an application using databases and SQL queries in C# in Visual Studio
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E3YjM0YWEyNDg0NTAzZWM4M2EzZWQ3MzRjOTQ2YjE3N2M3MzE2YSZjdD1n/uB86ZyWQsnFSGYe2sA/giphy.gif" width="300"/>
 </div>
